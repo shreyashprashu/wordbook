@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wordbook/static/css/main.cde7ab6d.chunk.css",
+    "main.js": "/wordbook/static/js/main.8b04cd1e.chunk.js",
+    "main.js.map": "/wordbook/static/js/main.8b04cd1e.chunk.js.map",
+    "runtime-main.js": "/wordbook/static/js/runtime-main.9ab95063.js",
+    "runtime-main.js.map": "/wordbook/static/js/runtime-main.9ab95063.js.map",
+    "static/js/2.6f4f3f71.chunk.js": "/wordbook/static/js/2.6f4f3f71.chunk.js",
+    "static/js/2.6f4f3f71.chunk.js.map": "/wordbook/static/js/2.6f4f3f71.chunk.js.map",
+    "index.html": "/wordbook/index.html",
+    "static/css/main.cde7ab6d.chunk.css.map": "/wordbook/static/css/main.cde7ab6d.chunk.css.map",
+    "static/js/2.6f4f3f71.chunk.js.LICENSE.txt": "/wordbook/static/js/2.6f4f3f71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ab95063.js",
+    "static/js/2.6f4f3f71.chunk.js",
+    "static/css/main.cde7ab6d.chunk.css",
+    "static/js/main.8b04cd1e.chunk.js"
+  ]
+}
